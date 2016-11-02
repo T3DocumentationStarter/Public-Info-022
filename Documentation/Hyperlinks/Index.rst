@@ -37,11 +37,11 @@ means that the `linktext` is NOT added to the internal table of known link defin
 
 Example::
 
-   See `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-$NUM/_buildinfo/>`__
+   See `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-022/_buildinfo/>`__
 
 Result:
 
-See `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-$NUM/_buildinfo/>`__
+See `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-022/_buildinfo/>`__
 
 
 
@@ -51,7 +51,7 @@ A named link
 
 Define the linktext `buildinfo` and the url somewhere in the document::
 
-   .. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-$NUM/_buildinfo/
+   .. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-022/_buildinfo/
 
 Use the defined link as often as you like::
 
@@ -61,7 +61,7 @@ Result:
 
 See the buildinfo_. See the buildinfo_. See the buildinfo_.
 
-.. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-$NUM/_buildinfo/
+.. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-022/_buildinfo/
 
 tip::
 
